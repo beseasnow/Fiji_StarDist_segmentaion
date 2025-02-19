@@ -30,4 +30,4 @@ python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000,
 
 ## choose model and probability/score and overlap threshold then click OK
 ![image](https://github.com/user-attachments/assets/1ec7ce1e-94bb-4883-9ed4-dc6f4f24ca23)
-[Fiji_Stardist_segmentaion_Shan_02182025.md](https://github.com/user-attachments/files/18858882/Fiji_Stardist_segmentaion_Shan_02182025.md)
+
